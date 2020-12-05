@@ -7971,11 +7971,11 @@ body.clear .ajax-wind__container .ajax-wind {
 
 body.loading {
     padding: 0 !important;
-    overflow: hidden
+ 
 }
 
 body.overflow-hidden {
-    overflow: hidden
+
 }
 
 #helpers {
