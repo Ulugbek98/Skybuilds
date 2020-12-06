@@ -1966,21 +1966,6 @@ a.ui-button:active {
     src: url(../fontawesome-webfont-1.eot) format("embedded-opentype"), url(../fontawesome-webfont-1.woff) format("woff"), url(../fonts/fontformufarrah/mufarrah.ttf) format("truetype")
 }
 
-@font-face {
-    font-family: amirt;
-    font-weight: 400;
-    font-style: normal;
-    src: url(../fonts/fontforamirt/amirt.eot);
-    src: url(../fonts/fontforamirt/amirt.eot?#iefix) format("embedded-opentype"), url(../fonts/fontforamirt/amirt.woff) format("woff"), url(../fonts/fontforamirt/amirt.bin) format("truetype")
-}
-
-@font-face {
-    font-family: central;
-    font-weight: 400;
-    font-style: normal;
-    src: url(../fonts/fontforcentral/central.eot);
-    src: url(../fonts/fontforcentral/central.eot?#iefix) format("embedded-opentype"), url(../fonts/fontforcentral/central.woff) format("woff"), url(../fonts/fontforcentral/central.bin) format("truetype")
-}
 
 .btn {
     position: relative;
