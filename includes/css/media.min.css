@@ -27,7 +27,7 @@
 #thank-you-page #content{padding-top:80px}
 }
 @media (max-width:1600px){
-.s-objects{font-size:.6em;height:70vh}
+.s-objects{font-size:.6em;height:130vh}
 }
 @media (max-width:1440px){
 .site-header .top-line .main-menu>ul .phone{font-size:.8em}
@@ -35,7 +35,7 @@
 .site-header .header-swiper-container .swiper-slide .title-image{width:35%}
 .site-header .header-swiper-container .swiper-slide .status{padding:0 35px;font-size:1.8em;height:54px}
 .site-header .header-swiper-container .swiper-slide .status__left{border-left-width:27px;border-bottom-width:27px;border-top-width:27px}
-.s-objects{font-size:.8em;height:90vh}
+.s-objects{font-size:.8em;height:100vh}
 .s-objects-content{width:90%;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(2,1fr)}
 .s-objects .s-objects-content .s-objects-item:hover>.s-objects-item-title{font-size:1.5em}
 .s-objects .s-objects-content .s-objects-item .s-objects-item-title{font-size:2em;margin:0}
@@ -99,7 +99,7 @@
 #partners-page.tenders-page #tenders .tenders__item .columns .column.status{font-size:1em}
 }
 @media (max-width:1200px){
-.s-objects{font-size:.6em;height:90vh}
+.s-objects{font-size:.6em;height:110vh}
 #uniqueness-projects{height:60vh!important}
 #uniqueness-projects .content a p{font-size:0}
 #uniqueness-projects .header-wrapper{height:10vh!important;padding:10px}
@@ -151,7 +151,7 @@
 }
 @media (max-width:1024px){
 #main-footer{font-size:.7em}
-.s-objects{height:80vh}
+.s-objects{height:70vh}
 #main-footer .content .main-footer-callback .callback .callback-form input{margin-bottom:10px;font-size:1.2em}
 #main-footer .content .main-footer-callback .callback .callback-form textarea{font-size:1.2em;margin-bottom:10px}
 .site-header .fixed.object-top-line .main-menu ul .fixed-phone{display:none}
@@ -225,12 +225,12 @@ article#ajax-container .ajax-content__text__inner{padding:0;padding-right:30px}
 }
 @media (max-width:900px){
 body{margin:0;padding-top:70px}
-.content__container{flex-direction:column;width:80%;}
+.content__container{flex-direction:column;width:80%}
 .mn-cont{display:grid;grid-template-columns:repeat(2,1fr);grid-gap:10px}
 #main-footer .content .main-footer-callback .callback{margin-top:20px;height:80%}
 #main-footer .content .main-footer-callback .callback .callback-form input{padding-top:0;padding-bottom:0}
 .main-footer-social{padding-top:20px!important;padding-bottom:5%!important}
-.s-objects{height:55vh;margin-bottom:20vh}
+.s-objects{height:90vh;margin-bottom:17vh}
 .top{bottom:50px;width:40px;height:40px;border:5px}
 .top i{position:relative;bottom:4px}
 .top.active{right:10px}
@@ -529,7 +529,7 @@ body{margin:0;padding-top:70px}
 }
 @media (max-width:855px){
 #header.with-estate .site-header .header-swiper-container .swiper-slide .mob__title.e21{font-size:4em}
-.s-objects{height:40vh}
+.s-objects{height:80vh}
 .s-objects-content{grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(2,1fr)}
 #career-page #s-why-we{margin-top:70px}
 #career-page #s-why-we .content__header{padding:0 150px}
@@ -550,7 +550,7 @@ body{margin:0;padding-top:70px}
 #main-footer .content .main-footer-social .socials{width:55%}
 #main-footer .content .main-footer-callback{flex-direction:column}
 .mob__top-line__number{font-size:1.8em;font-weight:700;text-decoration:underline}
-.s-objects{height:45vh;margin-bottom:8vh}
+.s-objects{height:50vh;margin-bottom:15vh}
 .s-objects-content{grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(2,1fr)}
 .mob__top-line__content__langs{padding:30px 80px}
 .mob__top-line__content__lang{font-size:1em}
@@ -612,7 +612,7 @@ body{margin:0;padding-top:70px}
 }
 @media (max-width:700px){
 #header.with-estate .site-header .header-swiper-container .swiper-slide .mob__title.e21{font-size:3.4em}
-.s-objects{height:55vh}
+.s-objects{height:100vh;margin-bottom: 20vh;}
 .s-objects-content{width:80%;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr)}
 .trapezoid-2{width:133vw}
 #career-page #out-partners .out-partners__item__header{font-size:2em}
@@ -631,7 +631,7 @@ body{margin:0;padding-top:70px}
 body{padding-top:60px!important}
 .s-about-infos{display:none}
 #main-footer .content .main-footer-social p{font-size:.6em}
-.s-objects{height:110vh}
+.s-objects{height:170vh; margin-bottom: 18vh;}
 .s-objects-content{grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(4,1fr)}
 .mob__top-line{height:60px}
 .mob__top-line__header{height:60px}
@@ -670,7 +670,7 @@ body{padding-top:60px!important}
 #thank-you-page #content section#thank-you{padding:60px 75px}
 }
 @media (max-width:580px){
-.s-objects{height:100vh}
+.s-objects{height:140vh;margin-bottom: 15vh;}
 #header.with-estate .site-header .header-swiper-container .swiper-slide .mob__left{padding-left:15px;padding-bottom:15px}
 #main-footer .content .main-footer-social p{font-size:.5em}
 #header.with-estate .site-header .header-swiper-container .swiper-slide .mob__title{font-size:3.7em}
@@ -782,7 +782,7 @@ body{padding-top:55px!important}
 .mob__top-line__menu__trigger .hamburger-inner:after{width:30px}
 .mob__top-line__content__langs{padding:30px 30px}
 .mob__top-line__content__lang{font-size:.8em}
-.s-objects{height:60vh;margin-bottom:5vh}
+.s-objects{height:140vh;margin-bottom:15vh}
 .mob__top-line__content__items{padding:0 60px;padding-right:30px}
 .mob__top-line__content__item{font-size:1.4em}
 #mob__callback__infos .mob__callback__infos__header{font-size:1.3em}
@@ -838,12 +838,9 @@ body{padding-top:55px!important}
 }
 @media (max-width:420px){
 body{padding-top:50px!important}
-.mn-cont{
-grid-template-columns: repeat(1,1fr);
-grid-gap: 5px;
-}
+.mn-cont{grid-template-columns:repeat(1,1fr);grid-gap:5px}
 #objects{display:block}
-.s-objects{height:70vh;margin-bottom:5vh}
+.s-objects{height:90vh;margin-bottom:12vh}
 .s-about-title::before{width:32%;left:14vh}
 .trapezoid-2{width:176vw}
 .s-objects-content{grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(4,1fr)}
@@ -930,7 +927,7 @@ grid-gap: 5px;
 }
 @media (max-width:360px){
 .mob__top-line__number{font-size:1.4em}
-.s-objects{height:60vh;margin-bottom:6vh}
+.s-objects{height:90vh;margin-bottom:10vh}
 .s-objects-content{grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(4,1fr)}
 .mob__top-line__content__langs{padding:10px 20px}
 .mob__top-line__content__lang{font-size:.75em;padding:5px 20px}
