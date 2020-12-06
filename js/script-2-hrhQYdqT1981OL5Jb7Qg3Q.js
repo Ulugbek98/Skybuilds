@@ -34359,42 +34359,7 @@ function initHelpers() {
             },
           });
         }),
-        $("#callback-us-from").submit(function (e) {
-          e.preventDefault();
-          var t = $(this),
-            i = $("#main-footer"),
-            n = "/site/callbackUs";
-          return (
-            i.hasClass("career-footer")
-              ? (n += "?type=career")
-              : i.hasClass("partner-footer") && (n += "?type=partner"),
-            $.ajax({
-              url: n,
-              type: "POST",
-              data: t.serialize(),
-              beforeSend: function () {
-                $("#callback_button").attr("disabled", !0),
-                  $("#callback_button").addClass("isDisabled"),
-                  $("#callback_button .callback-spinner").removeClass("hide");
-              },
-              success: function (e) {
-                $("#callback_button").attr("disabled", !1),
-                  $("#callback_button").removeClass("isDisabled"),
-                  $("#callback_button .callback-spinner").addClass("hide"),
-                  (e = JSON.parse(e)) &&
-                    (e.status ? (window.location = e.url) : alert(e.message));
-              },
-              error: function () {
-                alert("Произошла ошибка, повторите поптыку позже."),
-                  t[0].reset(),
-                  $("#callback_button").attr("disabled", !1),
-                  $("#callback_button").removeClass("isDisabled"),
-                  $("#callback_button .callback-spinner").addClass("hide");
-              },
-            }),
-            !1
-          );
-        }),
+ 
         M(),
         $(".top").click(function () {
           $("html, body").stop().animate({ scrollTop: 0 }, "slow", "swing");
